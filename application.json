@@ -1,0 +1,13 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFEBFB",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "歷屆團隊",
+      "isDefault": true
+    }
+  ]
+}
